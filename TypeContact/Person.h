@@ -1,4 +1,4 @@
-#include "../ContactClass/Contact.h"
+#include "../ContactClass/Contact.cpp"
 
 class Person : public Contact {
 public:
