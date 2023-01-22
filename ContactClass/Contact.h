@@ -4,7 +4,7 @@
 using std::string;
 
 class Contact {
-private:
+protected:
     string numberphone;
     string adress;
     string surname;
